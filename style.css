@@ -1,0 +1,11 @@
+*{
+  
+}
+.responsive-container .image{
+    width: 340px;
+    display: inline-block; 
+    margin: 5px;
+}
+.responsive-container{
+   display: flex;
+}
